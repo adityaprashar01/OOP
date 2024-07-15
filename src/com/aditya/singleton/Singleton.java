@@ -1,5 +1,7 @@
 package com.aditya.singleton;
 
+import com.aditya.access.A;
+
 public class Singleton {
     private Singleton () {
 
